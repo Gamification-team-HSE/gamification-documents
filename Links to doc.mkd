@@ -4,4 +4,6 @@
 
 [User Stories](https://docs.google.com/spreadsheets/d/1wyDUHKFwwPz7vpYutM7muhvucW1D31yyVd8aZByPPYE/edit?usp=sharing) 
 
-[Icons](https://disk.yandex.ru/d/_bDXChgGtYcbjA)
+[Icons](https://disk.yandex.ru/d/Y1Ejn65h7zS3mA)
+
+[Architecture scheme](https://disk.yandex.ru/i/02XPUtrHQS4ptQ)
